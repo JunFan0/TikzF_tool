@@ -7,7 +7,7 @@ $ python3 feynman_diagram.py
 ```
 成功打开后会弹出下面界面：<br>
 ```markdown
-![这是一个图片](/path/to/your/image.jpg "图片描述")
+!(./image1.png)
 ```
 若
 # TikzF_tool使用方法:
@@ -16,10 +16,10 @@ $ python3 feynman_diagram.py
 3.输入起始点；<br>
 4.选择线型，如果两点之间的线是弧形（目前只有半圆，1/4圆），在圈的下面选择对应的类型.basic line type为直线，half为半圆两者区别如下：<br>
 ```markdown
-![这是一个图片](/path/to/your/image.jpg)
+!(./image2.png)
 ```
 ```markdown
-![这是一个图片](/path/to/your/image.jpg)
+!(./image3.png)
 ```
 注：<br>
 名称选项是显示是显示图结构，它会输出所有节点以及边的名称。边的名称为l+数字，数字为几，改变对应边的代码就在\diagram*下面的第几行。<br>
