@@ -7,7 +7,7 @@ $ python3 feynman_diagram.py
 ```
 成功打开后会弹出下面界面：<br>
 ```markdown
-![](https://raw.githubusercontent.com/JunFan0/TikzF_tool/main/image1.png)
+![](../image1.png)
 ```
 
 # TikzF_tool使用方法:
