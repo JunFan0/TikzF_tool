@@ -16,7 +16,7 @@ $ python3 feynman_diagram.py
 &emsp;&emsp;3.输入起始点；<br>
 &emsp;&emsp;4.选择线型，如果两点之间的线是弧形（目前只有半圆，1/4圆），在圈的下面选择对应的类型.basic line type为直线，half为半圆两者区别如下：<br>
 <div style="text-align:center">
-  <img src="image2.png" alt="Your Image"><img src="image2.png" alt="Your Image">
+  <img src="image2.png" alt="Your Image"><img src="image3.png" alt="Your Image">
 </div>
 &emsp;&emsp;注：<br>
 &emsp;&emsp;名称选项是显示是显示图结构，它会输出所有节点以及边的名称。边的名称为l+数字，数字为几，改变对应边的代码就在\diagram*下面的第几行。<br>
