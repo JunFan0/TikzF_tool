@@ -7,7 +7,7 @@ $ python3 feynman_diagram.py
 ```
 成功打开后会弹出下面界面：<br>
 
-![image1](image1.png,'image1')
+![image1]('image1.png')
 
 # TikzF_tool使用方法:
 1.输入起始点（建议以数字命名），不要输入a+数字的组合，因为输入数字得到的实际名称就是a+数字；<br>
