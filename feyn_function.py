@@ -57,7 +57,7 @@ def trans_txt(list_toplo):
                'ghost', 
                'fermion',
                'majiorana',
-               'gloun']
+               'gluon']
     loop_style=['half left','quarter left']
     # count_num
     line_num=1
