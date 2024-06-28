@@ -40,7 +40,7 @@ class fey_window(object):
                        'ghost', 
                        'fermion',
                        'majiorana',
-                       'gloun']#线型的显示名称
+                       'gluon']#线型的显示名称
         self.line_type_ex = ['basic line type',
                              'half',
                              'quarter']#圈的单选框名称
